@@ -3,7 +3,7 @@
   "configurations": [
     {
       "command": "npm start",
-      "name": "Run app",
+      "name": "Run flow2-1791916979588-1-app",
       "request": "launch",
       "type": "node-terminal"
     }
